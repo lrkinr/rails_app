@@ -1,4 +1,4 @@
-class downloadController < ApplicationController
+class DownloadController < ApplicationController
   def index
   end
 end
